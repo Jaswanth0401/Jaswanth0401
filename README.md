@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="150" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380"  />
-</div>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt=”my banner”>
+
+</p>
 
 ###
 
