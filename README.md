@@ -1,13 +1,13 @@
-<div>
-
-<img width=”200" height=”200" src=”https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt=”my banner”>
-
+<div align="center">
+  <img height="150" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaswanth0401.Jaswanth0401&left_text=Viewers"  />
+  <img src="https://profile-counter.glitch.me/Jaswanth0401/count.svg?"  />
 </div>
 
 ###
@@ -87,5 +87,11 @@
 ###
 
 <p align="left">Thank You !</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Jaswanth0401/count.svg?"  />
+</div>
 
 ###
