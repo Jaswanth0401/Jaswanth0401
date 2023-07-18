@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" width="550" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
+  <img height="250" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
 </div>
 
 ###
