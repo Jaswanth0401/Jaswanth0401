@@ -88,10 +88,4 @@
 
 <p align="left">Thank You !</p>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jaswanth0401/count.svg?"  />
-</div>
-
-###
