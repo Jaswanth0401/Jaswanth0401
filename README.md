@@ -2,13 +2,6 @@
   <img height="150" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaswanth0401.Jaswanth0401&left_text=Viewers"  />
-</div>
 
 ###
 
