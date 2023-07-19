@@ -78,4 +78,4 @@
 
 ###
 
-### 🌠: Thank You!
+### 🌠 Thank You!
