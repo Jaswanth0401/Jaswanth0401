@@ -74,7 +74,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jaswanth0401&theme=dark&background=000000)](https://git.io/streak-stats)
+![](http://github-readme-streak-stats.herokuapp.com?user=Jaswanth0401&theme=dark&background=000000)
+
+
 ###
 
 <p align="left">Thank You !</p>
