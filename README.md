@@ -73,8 +73,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-![](http://github-readme-streak-stats.herokuapp.com?user=Jaswanth0401&theme=dark&background=000000)
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jaswanth0401&theme=dark)](https://git.io/streak-stats)
 
 
 ###
