@@ -82,11 +82,3 @@
 ###
 
 ### 🌠: Thank You!
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jaswanth0401/count.svg?"  />
-</div>
-
-###
